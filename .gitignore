@@ -1,0 +1,4 @@
+openclaw.json
+.env
+*.log
+echo "openclaw.json" >> .gitignore
